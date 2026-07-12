@@ -23,19 +23,6 @@ It enables librarians to manage books, students, and borrowing transactions effi
 
 ---
 
-# 📸 Preview
-
-> Replace these images with screenshots after uploading them.
-
-| Dashboard | Books Management |
-|------------|------------------|
-| ![](images/dashboard.png) | ![](images/books.png) |
-
-| Student Management | Transactions |
-|--------------------|--------------|
-| ![](images/students.png) | ![](images/transactions.png) |
-
----
 
 # ✨ Features
 
