@@ -237,39 +237,6 @@ This project helped strengthen knowledge of:
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-```
-(Add Screenshot Here)
-```
-
----
-
-## Books
-
-```
-(Add Screenshot Here)
-```
-
----
-
-## Students
-
-```
-(Add Screenshot Here)
-```
-
----
-
-## Transactions
-
-```
-(Add Screenshot Here)
-```
-
----
 
 # 🤝 Contributing
 
